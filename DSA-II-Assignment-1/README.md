@@ -150,7 +150,7 @@ python3 main.py
 | Brute Force (B1) | O(n²) | O(1) |
 | Two-Pointer (B2) | **O(n)** | **O(1)** |
 
-<img width="221" height="865" alt="image" src="https://github.com/user-attachments/assets/cbad9882-2099-463c-a08a-6ef4aa07debc" />
+<img width="396" height="610" alt="image" src="https://github.com/user-attachments/assets/3ec6c3e5-2083-4676-8414-2c95b309d822" />
 
 
 ---
