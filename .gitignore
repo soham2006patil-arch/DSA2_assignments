@@ -1,0 +1,27 @@
+# macOS
+.DS_Store
+
+# C++ build output
+*.out
+*.o
+cpp/main
+DSA-II-Assignment-1/cpp/main
+DSA-II-Assignment-2/cpp/main
+
+# Java class files
+*.class
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Misc
+*.textClipping
+pali.class
+pali.java
+palindrome
+palindrome.cpp
+sliding_window.cpp
+day1/
+output/
